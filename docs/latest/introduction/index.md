@@ -1,7 +1,7 @@
 ---
 description: |
   Fresh is a full stack modern web framework for JavaScript and TypeScript
-  developers, designed to build high-quality, performant,
+  developers, designed to build high-quality, performant.
   and personalized web applications.
 ---
 
